@@ -1,1 +1,1 @@
-# simple-captcha
+# simple-captcha-php
